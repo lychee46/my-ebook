@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="未知">未知</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">05c78607-16d8-4793-a364-6a5402970132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05c78607-16d8-4793-a364-6a5402970132</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-06-13T08:07:01+00:00</dc:date>
+        <dc:title>測試</dc:title>
+<meta name="calibre:title_sort" content="測試"/>
+<dc:language>zho</dc:language>
+</metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
